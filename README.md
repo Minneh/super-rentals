@@ -1,4 +1,4 @@
-# super-rentals
+# Project Name: Super Rentals
 
 A simple application for a vacation rental company called Super Rentals. This application allows users to list their properties for visitors and vacationers to rent.
 

@@ -1,7 +1,8 @@
 # super-rentals
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+A simple application for a vacation rental company called Super Rentals. This application allows users to list their properties for visitors and vacationers to rent.
+
+# Website URL:  https://minneh.github.io/super-rentals
 
 ## Prerequisites
 
@@ -15,7 +16,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
+* `git clone <https://github.com/Minneh/super-rentals>` this repository
 * `cd super-rentals`
 * `npm install`
 * `bower install`
